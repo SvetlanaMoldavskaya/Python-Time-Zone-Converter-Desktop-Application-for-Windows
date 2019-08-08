@@ -1,2 +1,2 @@
 # Python-Time-Zone-Converter-Desktop-Application-for-Windows
-For this Time Zone Converter app I'm using Python and PyQT5 library. This is my personal project. My mentor from the Netherlands is quiding me through the process through Skype. I use Visual Studio Code. 
+Time Converter program which converts given time and to another country's time. For this Time Zone Converter app I'm using Python and PyQT5 library. This is my personal project. My mentor is guiding me through the process via Skype. Editor: Visual Studio Code. 
